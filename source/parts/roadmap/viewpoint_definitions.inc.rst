@@ -45,9 +45,7 @@ hierarchically decomposable implementation units (modules).
 
 Stakeholders and Their Concerns Addressed
 -----------------------------------------
-- **Product Management**: Defines product scope, formulates project plans; Interested in schedules.
-- **Software Developers**: Need to understand the code structure and how it is organized for implementation,
-  maintenance, testing.
+
 
 Elements, Relations, Properties, and Constraints
 ------------------------------------------------
@@ -99,11 +97,7 @@ environment. Connectors are the elements that enable communication, coordination
 
 Stakeholders and Their Concerns Addressed
 -----------------------------------------
-- **System End Users**: indirectly, as they are dependant on the runtime reliability and responsiveness of the system;
-- **Software Developers**: who implement components and design their runtime interaction; who ensure components
-  communicate and interact correctly; who analyze the system's runtime behavior for performance bottlenecks; who focus
-  on potential vulnerabilities arising from component interactions; who manage and configure deployed components and
-  their connections;
+
 
 Elements, Relations, Properties, and Constraints
 ------------------------------------------------
@@ -149,14 +143,7 @@ about resource usage, deployment, and organizational alignment.
 
 Stakeholders and Their Concerns Addressed
 -----------------------------------------
-- **Investors**: indirectly, since work allocation and deployment influence the cost-effectiveness of
-  the system development and operation;
-- **Product Management**: who is concerned with allocating financial resources and task management for timelines and
-  budgets;
-- **Software Developers**: who are concerned with the deployment of the system; who are concerned with the distribution
-  of work among internal/external developers and their management; who are concerned with the system's operational and
-  maintenance requirements in terms of the infrastructural environment; who are concerned with system quality attributes
-  such as performance, reliability, and security.
+
 
 Elements, Relations, Properties, and Constraints
 ------------------------------------------------

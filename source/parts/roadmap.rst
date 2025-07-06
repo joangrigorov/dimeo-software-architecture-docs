@@ -4,7 +4,7 @@
 Part I: Documentation Roadmap
 #############################
 This document contains architectural drivers and the software architecture specification (packaged as Views) of
-the {PROJECT_NAME} platform. It is written and maintained by the {PROJECT_NAME} Software Architecture Team.
+the DiMeo Waste Management System platform. It is written and maintained by the DiMeo Waste Management System Software Architecture Team.
 The following sections of this chapter describe how this document is organized, maintained, its purpose, scope and
 elements.
 

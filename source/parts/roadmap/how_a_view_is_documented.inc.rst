@@ -39,8 +39,8 @@ Each view is documented as follows, where the letter i stands for the number of 
         - **i.2.5: Constraints** - This section lists any constraints on elements or relations not otherwise
           described.
     - **i.3: Context diagram** - This section provides a context diagram showing the context of the part of the
-      system represented by this view packet. It also designates the view packet’s scope with a distinguished symbol, and
-      shows interactions with external entities in the vocabulary of the view.
+      system represented by this view packet. It also designates the view packet’s scope with a distinguished symbol,
+      and shows interactions with external entities in the vocabulary of the view.
     - **i.4: Variability mechanisms** - This section describes any variabilities that are available in the portion
       of the system shown in the view packet, along with how and when those mechanisms may be exercised.
     - **i.5: Architecture background** - This section provides rationale for any significant design decisions whose

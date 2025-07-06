@@ -6,20 +6,20 @@ System Overview
 .. only:: html
 
     .. figure:: /parts/architecture_background/features.drawio.png
-       :alt: {PROJECT_NAME} Features
+       :alt: DiMeo Waste Management System Features
        :align: right
        :scale: 70%
 
-       {PROJECT_NAME} Features
+       DiMeo Waste Management System Features
 
 .. only:: latex
 
     .. figure:: /parts/architecture_background/features.drawio.png
-       :alt: {PROJECT_NAME} Features
+       :alt: DiMeo Waste Management System Features
        :align: right
        :scale: 45%
 
-       {PROJECT_NAME} Features
+       DiMeo Waste Management System Features
 
 This section provides a high-level summary of the system, outlining its primary purpose, core functionality, and
 alignment with business objectives. It describes the problem the system is intended to solve, the key stakeholders it

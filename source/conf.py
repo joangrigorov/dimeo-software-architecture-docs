@@ -12,11 +12,11 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '{PROJECT_NAME} Software Architecture Documentation'
+project = 'DiMeo Waste Management System Software Architecture Documentation'
 copyright = (
-   f'{datetime.datetime.now().year}' + ', {PROJECT_NAME} {AUTHOR}'
+   f'{datetime.datetime.now().year}' + ', DiMeo Waste Management System DiMeo R{AUTHOR}D Team'
 )
-author = '{AUTHOR}'
+author = 'DiMeo R{AUTHOR}D Team'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

@@ -24,7 +24,7 @@ architectural drivers should be reviewed and updated accordingly.
 
 View changes
 ############
-As the {PROJECT_NAME} products evolve, the software architecture will evolve as well. This means that the views of the
+As the DiMeo Waste Management System products evolve, the software architecture will evolve as well. This means that the views of the
 software architecture will change. The views should be reviewed and updated to reflect the current state of the software
 architecture. Use Pull Requests to suggest software architecture changes, both for suggested, planned and current
 states.

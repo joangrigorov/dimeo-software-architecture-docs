@@ -1,4 +1,4 @@
-Welcome to the {PROJECT_NAME} Documentation!
+Welcome to the DiMeo Waste Management System Documentation!
 ============================================
 
 .. toctree::

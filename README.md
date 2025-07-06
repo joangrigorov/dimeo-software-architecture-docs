@@ -1,9 +1,7 @@
-# {PROJECT_NAME} Software Architecture Documentation
+# DiMeo Waste Management System Software Architecture Documentation
 
-# Recommended: run `./init` after cloning this repository so you can set project name and author.
-
-This is the repository containing the software architecture documentation sources of {PROJECT_NAME}.
-Documentation is maintained by {AUTHOR}.
+This is the repository containing the software architecture documentation sources of DiMeo Waste Management System.
+Documentation is maintained by DiMeo R{AUTHOR}D Team.
 
 ## Building the documentation
 
